@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="pl">
 <head>
 <meta charset="UTF-8">
@@ -291,5 +290,3 @@ for(let i=0;i<acc.length;i++){
 }
 </script>
 
-</body>
-  </html>
