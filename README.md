@@ -165,7 +165,6 @@ footer{text-align:center;padding:30px;font-size:.7rem;opacity:.4;}
       <li>Standard: 7 grafik tygodniowo – 500 zł/mies</li>
       <li>Premium: 7 grafik tygodniowo + animacje – 600 zł/mies</li>
         </ul>
-      </li>
       <li>Miniaturki do filmów na YouTube:
         <ul>
           <li>4/mies – 400 zł</li>
@@ -179,7 +178,7 @@ footer{text-align:center;padding:30px;font-size:.7rem;opacity:.4;}
           <li>10 szablonów – 1200 zł</li>
         </ul>
       </li>
-    </ul>
+
   </div>
 
   <!-- Współprace z klubami sportowymi -->
@@ -194,8 +193,7 @@ footer{text-align:center;padding:30px;font-size:.7rem;opacity:.4;}
     (wyniki meczowe,zapowiedzi meczy,składy,*plakaty,dzień meczowy,informacje klubowe,animacje-video,wywiady-video)</li>
           <li>Pakiet + (animacje, wywiady, transmisje live, skróty meczów) - wycena indywidualna</li>
         </ul>
-      </li>
-    </ul>
+      
   </div>
     
     
