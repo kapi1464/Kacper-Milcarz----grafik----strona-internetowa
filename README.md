@@ -164,12 +164,6 @@ footer{text-align:center;padding:30px;font-size:.7rem;opacity:.4;}
       <li>Basic: 4 grafiki tygodniowo – 300 zł/mies</li>
       <li>Standard: 7 grafik tygodniowo – 500 zł/mies</li>
       <li>Premium: 7 grafik tygodniowo + animacje – 600 zł/mies</li>
-      <li>Pakiet dla klubów piłkarskich:
-        <ul>
-          <li>Basic – 250 zł/mies</li>
-          <li>Standard – 350 zł/mies</li>
-          <li>Premium – 400 zł/mies</li>
-          <li>Pakiet + (animacje, wywiady, transmisje live, skróty meczów) - wycena indywidualna</li>
         </ul>
       </li>
       <li>Miniaturki do filmów na YouTube:
@@ -188,6 +182,23 @@ footer{text-align:center;padding:30px;font-size:.7rem;opacity:.4;}
     </ul>
   </div>
 
+  <!-- Współprace z klubami sportowymi -->
+  <button class="accordion-btn">Współprace z klubami sportowymi</button>
+  <div class="panel">
+  <ul>
+          <li>Basic – 250 zł/mies   
+    (wyniki meczowe,zapowiedzi meczy,informacje klubowe)</li>
+          <li>Standard – 350 zł/mies
+    (wyniki meczowe,zapowiedzi meczy,składy,*plakaty,dzień meczowy,informacje klubowe)</li>
+          <li>Premium – 400 zł/mies
+    (wyniki meczowe,zapowiedzi meczy,składy,*plakaty,dzień meczowy,informacje klubowe,animacje-video,wywiady-video)</li>
+          <li>Pakiet + (animacje, wywiady, transmisje live, skróty meczów) - wycena indywidualna</li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+    
+    
   <!-- Multimedia i animacje -->
   <button class="accordion-btn">Multimedia i animacje</button>
   <div class="panel">
