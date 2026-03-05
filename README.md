@@ -166,30 +166,23 @@ footer{text-align:center;padding:30px;font-size:.7rem;opacity:.4;}
       <li>Premium: 7 grafik tygodniowo + animacje – 500 zł/mies</li>
       <li>Pakiet dla klubów piłkarskich:
         <ul>
-          <li>Basic – 200 zł/mies</li>
-          <li>Standard – 300 zł/mies</li>
-          <li>Premium – 400 zł/mies</li>
-          <li>Pakiet+ (dodatek do każdego formatu) – animacje, wywiady, transmisje live, skróty meczów</li>
-        </ul>
-      </li>
-      <li>Prowadzenie stron internetowych:
-        <ul>
-          <li>Basic – 300 zł/mies</li>
-          <li>Standard – 500 zł/mies</li>
-          <li>Premium – 800–1000 zł/mies</li>
-        </ul>
+          <li>Basic – 250 zł/mies</li>
+          <li>Standard – 350 zł/mies</li>
+          <li>Premium – 500 zł/mies</li>
+          <li>Pakiet+ (dodatek do każdego formatu) – animacje, wywiady, transmisje live, skróty meczów - wycena indywidualna</li>
+        </ul
       </li>
       <li>Miniaturki do filmów na YouTube:
         <ul>
           <li>4/mies – 400 zł</li>
-          <li>8/mies – 700 zł</li>
-          <li>12/mies – 950 zł</li>
+          <li>8/mies – 800 zł</li>
+          <li>12/mies – 1200 zł</li>
         </ul>
       </li>
       <li>Szablony do Instagram Stories, postów i reelsów:
         <ul>
-          <li>5 szablonów – 600 zł</li>
-          <li>10 szablonów – 1000 zł</li>
+          <li>5 szablonów – 500 zł</li>
+          <li>10 szablonów – 700 zł</li>
         </ul>
       </li>
     </ul>
@@ -269,7 +262,7 @@ function openForm(){
 }
 meetingForm.addEventListener("submit", e=>{
   e.preventDefault();
-  alert("Dziękujemy! Skontaktujemy się z Tobą.");
+  alert("Dziękujemy! W celu potwierdzenia spotkania,wyślij wiadomość na milcarzkacper65@gmail.com.");
   formModal.classList.remove("active");
 });
 
