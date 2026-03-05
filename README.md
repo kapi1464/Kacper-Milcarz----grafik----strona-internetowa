@@ -212,6 +212,7 @@ footer{text-align:center;padding:30px;font-size:.7rem;opacity:.4;}
     </ul>
   </div>
 </section>
+</div>
 
 
 <!-- MEDIA -->
