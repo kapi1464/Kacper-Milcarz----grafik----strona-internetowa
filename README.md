@@ -162,7 +162,7 @@ footer{text-align:center;padding:30px;font-size:.7rem;opacity:.4;}
   <div class="panel">
     <ul>
       <li>Basic: 4 grafiki tygodniowo – 300 zł/mies</li>
-      <li>Standard: 7 grafik tygodniowo – 350 zł/mies</li>
+      <li>Standard: 7 grafik tygodniowo – 400 zł/mies</li>
       <li>Premium: 7 grafik tygodniowo + animacje – 500 zł/mies</li>
       <li>Pakiet dla klubów piłkarskich:
         <ul>
@@ -177,6 +177,12 @@ footer{text-align:center;padding:30px;font-size:.7rem;opacity:.4;}
           <li>4/mies – 400 zł</li>
           <li>8/mies – 800 zł</li>
           <li>12/mies – 1200 zł</li>
+        </ul>
+        </li>
+      <li>Projektowanie stron internetowych:
+        <ul>
+          <li>Basic – 1500-4000 zł</li>
+          <li>Standard – 3000-7000 zł</li>
         </ul>
       </li>
       <li>Szablony do Instagram Stories, postów i reelsów:
