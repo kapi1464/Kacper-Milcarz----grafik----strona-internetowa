@@ -81,7 +81,7 @@ footer{text-align:center;padding:30px;font-size:.7rem;opacity:.4;}
   <h1>Kacper Milcarz – Grafik</h1>
   <p>Grafika, która przyciąga uwagę w mediach społecznościowych</p>
   <div class="about-me">
-    <p>Jestem grafikiem specjalizującym się w projektach sportowych oraz grafikach do social mediów. Tworzę estetyczne i dynamiczne materiały, które budują wizerunek i zwiększają zaangażowanie.</p>
+    <p>Jestem grafikiem specjalizującym się w projektach sportowych oraz grafikach do social mediów. Tworzę estetyczne i dynamiczne materiały, które budują wizerunek i zwiększają zaangażowanie w internecie.</p>
   </div>
   <div class="tiles">
     <a href="#works" class="tile"><i class="fa-solid fa-pen-nib"></i><span>Prace</span></a>
@@ -151,9 +151,9 @@ footer{text-align:center;padding:30px;font-size:.7rem;opacity:.4;}
   <button class="accordion-btn">Branding i identyfikacja wizualna</button>
   <div class="panel">
     <ul>
-      <li>Tworzenie logo – 400 zł</li>
+      <li>Tworzenie logo – od 400 zł</li>
       <li>System identyfikacji wizualnej firmy – 800 zł</li>
-      <li>Projektowanie stron internetowych – 1500 zł</li>
+      <li>Projektowanie stron internetowych – wycena indywidualna </li>
     </ul>
   </div>
 
@@ -161,27 +161,27 @@ footer{text-align:center;padding:30px;font-size:.7rem;opacity:.4;}
   <button class="accordion-btn">Współprace – prowadzenie Social Mediów</button>
   <div class="panel">
     <ul>
-      <li>Basic: 4 grafiki tygodniowo – 400 zł/mies</li>
-      <li>Standard: 7 grafik tygodniowo – 600 zł/mies</li>
-      <li>Premium: 7 grafik tygodniowo + animacje – 900 zł/mies</li>
+      <li>Basic: 4 grafiki tygodniowo – 300 zł/mies</li>
+      <li>Standard: 7 grafik tygodniowo – 500 zł/mies</li>
+      <li>Premium: 7 grafik tygodniowo + animacje – 600 zł/mies</li>
       <li>Pakiet dla klubów piłkarskich:
         <ul>
-          <li>Basic – 200 zł/mies</li>
+          <li>Basic – 250 zł/mies</li>
           <li>Standard – 350 zł/mies</li>
-          <li>Premium – 500 zł/mies</li>
-          <li>Pakiet+ (dodatek do każdego formatu) – animacje, wywiady, transmisje live, skróty meczów</li>
+          <li>Premium – 400 zł/mies</li>
+          <li>Pakiet + (animacje, wywiady, transmisje live, skróty meczów) - wycena indywidualna</li>
         </ul>
       </li>
       <li>Miniaturki do filmów na YouTube:
         <ul>
-          <li>4/mies – 500 zł</li>
+          <li>4/mies – 400 zł</li>
           <li>8/mies – 800 zł</li>
           <li>12/mies – 1000 zł</li>
         </ul>
       </li>
       <li>Szablony do Instagram Stories, postów i reelsów:
         <ul>
-          <li>5 szablonów – 700 zł</li>
+          <li>5 szablonów – 600 zł</li>
           <li>10 szablonów – 1200 zł</li>
         </ul>
       </li>
