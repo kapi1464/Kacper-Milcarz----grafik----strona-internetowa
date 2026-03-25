@@ -198,7 +198,8 @@ footer{text-align:center;padding:30px;font-size:.7rem;opacity:.4;}
           <li>Premium – 400 zł/mies
     (wyniki meczowe,zapowiedzi meczy,składy,*plakaty,dzień meczowy,informacje klubowe,animacje-video,wywiady-video)</li>
           <li>Pakiet + (animacje, wywiady, transmisje live, skróty meczów) - wycena indywidualna</li>
-  </ul>
+      </li>
+    </ul>
   </div>
     
     
